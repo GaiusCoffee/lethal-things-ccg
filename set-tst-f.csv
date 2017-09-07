@@ -1,0 +1,11 @@
+dupe,no,max,setname,cardname,vp,tags,text
+3,1,10,TST,OG Beb,2,Thing • Beb • Boy,<b>Activate @[cardname] and discard a card</b>: Search the draw pile for a card tagged 'Bebi', and put it to your hand.
+3,2,10,TST,OG Bebi,1,Thing • Bebi • Girl,<b>Activate @[cardname] and return a Thing you control back to your hand</b>: Destroy a Thing that costs 2 VP or less.,Resource • Cat,<b>Activate this card</b>: Produce one resource.,1
+3,3,10,TST,OG Narrator,3,Thing • Narrator,<b>When an effect makes you discard a card and @[cardname] is not activated</b>: Activate @[cardname] and draw a card.,Resource • Cat,<b><b>Activate this card</b>: Produce one resource.,0
+3,4,10,TST,Crush,2,Thing • Beb • Boy,<b>Activate @[cardname] and any card you control tagged 'Bebi'</b>: Target player discards a card.
+3,5,10,TST,Wedding Bebi,3,Thing • Bebi • Girl,<b>Activate @[cardname] and pay 1 resource</b>: Destroy a Thing that costs 4 VP or more.,Resource • Cat,<b>Activate this card</b>: Produce one resource.,1
+3,6,10,TST,Head pats,4,Thing,<b>Activate any card you control tagged 'Beb' and another card you control tagged 'Bebi'</b>: Search the discard pile for a card that cost 2 VP or less and put it in your play area face down.
+3,7,10,TST,Zumba,2,Thing,<b>Activate Zumba and destroy a card you control tagged 'Bebi'</b>: Play a Thing from your hand without paying for its cost.
+3,8,10,TST,Jolibee Delivery,1,Thing • Jolibee,<b>Activate Jolibee Delivery</b>: Draw a card.
+3,9,10,TST,Cupid,2,Thing,<b>Activate Cupid and pay X resource</b>: Return a Thing that costs X VP back to their owner's hand.
+3,10,10,TST,Cake,4,Thing • Food,<b>Activate Cake and any card you control tagged 'Beb'</b>: Flip a Resource card you control to its Thing side. If it is not tagged 'Bebi'<c> flip it again to its Resource side.

@@ -1,0 +1,4 @@
+Define,Value
+root,assets\
+bcardname,<b>@[cardname]</b>
+nl,<br><br>
