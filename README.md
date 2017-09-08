@@ -1,5 +1,15 @@
 # Lethal Things CCG
 
+Rules for at least two players, 10 mins per player game time.
+
+## Parts of a Card
+
+At the front of the Card (the "Thing" side), the name of the card is on the top along with its Victory Point value. Below the illustration, there will be a Tag box that contains all of the tags that is associated with the card, and the card text box below it.
+
+The card text box can be divided to the highlighted Cost or Trigger and the card's Effect, seperated by a colon ':'. If the card text does not have a Cost or Trigger, then the effect is always active while it is in the play area.
+
+The back of the Card (the "Resource" side) is mostly the same as the front, except the card name is not visible and there are no Victory Point values.
+
 ## How to Win
 
 The first player to start their turn with 10 Victory Points wins the game.
@@ -14,7 +24,17 @@ The first player to start their turn with 10 Victory Points wins the game.
 
 ## Gameplay
 
-At the beginning of each player's turn, Reset all of their cards to show that they can be activated again this turn. Afterwards, the player draws one card.
+Each player's turns are divided into two phases: 1) Reset & Draw Phase and the 2) Main Phase
+
+### Reset & Draw Phase
+
+At the beginning of each player's turn, check if the combined total of the cards in their play area is equal or greater than 10. If it is, then that player have won the game.
+
+When cards are activated, they are turned 90 degrees to show that they cannot be activated again. During the Reset Phase, all cards that the current player controls are 'Reset' into their original positions to mark that they can be used again.
+
+After resetting your cards, draw one card from the draw pile.
+
+### Main Phase
 
 During each player's turn, the following actions may be used in any order:
 
@@ -23,16 +43,14 @@ During each player's turn, the following actions may be used in any order:
 * Any number of times, activate a card. The player must pay the cost (if any) when activating a card, before doing what the card text says.
 * Pass the turn.
 
-At any time, after each player a) starts their turn, b) does an action or c) ends their turn, all other players may activate any number of their cards in response. They must pay any costs required before doing what the card text says.
-
 ## Notes
 
-* Lethal Things CCG can be played by at least two players for 10 to 20 minutes per game. Increase the game duration by 10 minutes per extra player.
-* Turn activated cards 90 degrees to show that they have been activated. When the cards has been reset, return it to its original position. This is also known as "Tapping" in the popular trading card game Magic: the Gathering.
 * If a player tries to draw a card and the shared draw pile is empty, shuffle all the cards in the discard pile and place them in the draw pile. 
 * The concept known as "Summoning Sickness" does not apply to this game. Cards may be activated immediately after playing them.
+* Cards can only be activated if the card is in a play area, and only during the controlling player's turn.
+* Tags have no inherent effects.
 * When building the shared deck, there should only be up to three copies of the same card. There are no maximum deck size, but there should at least be 15 cards per player.
-* Some card text are divided into cost and effects by a colon symbol ':'. Most triggers will only activate when an effect happens, but not when paying for a cost.
+* Most triggers will only activate when an effect happens, but not when paying for a cost.
 * You may check the other side of your cards at any time.
 
 ## Copyright
